@@ -101,10 +101,3 @@ Using **YOLOv8 Nano** — the fastest and lightest variant, great for real-time 
 
 - [Ultralytics YOLOv8 Docs](https://docs.ultralytics.com/)
 - [COCO Dataset Classes](https://cocodataset.org/)
-
----
-
-## 👤 Author
-
-**Anurudh** — B.Tech AI & ML, Srinivas University  
-[GitHub Profile](https://github.com/)
