@@ -1,4 +1,4 @@
-# 🎯 YOLOv8 Object Detection
+# YOLOv8 Object Detection
 
 Real-time object detection using [YOLOv8](https://github.com/ultralytics/ultralytics) — supports both static images and live webcam feed.
 
@@ -13,7 +13,7 @@ Real-time object detection using [YOLOv8](https://github.com/ultralytics/ultraly
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3.8+
 - A webcam (for live detection)
@@ -26,7 +26,7 @@ pip install ultralytics opencv-python
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### 1. Image Detection
 
@@ -87,7 +87,7 @@ cv2.destroyAllWindows()
 
 ---
 
-## 🤖 Model Info
+## Model Info
 
 | Model     | Size  | mAP  | Speed (CPU) |
 |-----------|-------|------|-------------|
